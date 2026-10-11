@@ -14,7 +14,7 @@
 
 ### A little about me
 
-I'm a person with a focus on IT and (Cyber)Security. I enjoy to build ideas (that helps to solve problems) even with AI (as the manual work is starting slowly loose over it).
+I'm a person with a focus on IT and (Cyber)Security. I enjoy to build ideas (that helps to solve problems) even though it is with AI (as the manual work is starting slowly loose over it).
 
 - **Building:** Anything I need to solve the problem
 - **Exploring:** New ways and possibilities
