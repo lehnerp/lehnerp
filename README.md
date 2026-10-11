@@ -1,6 +1,6 @@
 <div align="center">
 
-![Build. Learn. Ship.](assets/profile-banner.svg)
+![Learn and Build](assets/profile-banner.svg)
 
 # Hey, I'm Patrik
 
