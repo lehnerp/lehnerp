@@ -6,7 +6,7 @@
 
 ### IT & CyberSec Analyst
 
-[Portfolio](TBA) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/patrik-lehner) &nbsp; / &nbsp; [Email](TBA)
+[LinkedIn](https://www.linkedin.com/in/patrik-lehner) &nbsp;
 
 </div>
 
